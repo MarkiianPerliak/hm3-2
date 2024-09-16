@@ -36,7 +36,9 @@ console.log(sum * 0.9)
 
 // 5 start
 
-// NOT DONE
+const mathFloorTest = 2.67;
+
+console.log(Math.floor(mathFloorTest))
 
 // 5 end
 
@@ -62,7 +64,9 @@ console.log(numberLine)
 
 // 8 start
 
-// NOT DONE
+const mathSqrt = 17;
+
+console.log(Math.sqrt(mathSqrt))
 
 // 8 end
 
